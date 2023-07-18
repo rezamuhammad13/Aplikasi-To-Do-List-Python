@@ -1,2 +1,2 @@
 # Aplikasi-To-Do-List-Python
-Pembuatan aplikasi catatan pekerjaan harian dengan Pyqt 6 untuk memenuhi tugas UAS Pemrograman Desktop Semester 6
+Making a daily work record application with Pyqt 6 and QtCreator to fulfill Desktop Programming Project assignments
