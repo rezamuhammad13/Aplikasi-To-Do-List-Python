@@ -1,2 +1,5 @@
 # Aplikasi-To-Do-List-Python
-Making a daily work record application with Pyqt 6 and QtCreator to fulfill Desktop Programming Project assignments
+
+create a to do list application using pyqt6 and qt creator and mysql database to store, import, and export data.
+
+accompanied by a feature to export daily activity data to csv or pdf format
